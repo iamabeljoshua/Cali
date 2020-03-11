@@ -12,7 +12,7 @@ import pyttsx3
 
 class TTSSpeaker(object):
 
-    voice = "online"  # set to online to use ibm tts
+    voice = "online"  # set to offline to use pyttsx
 
     def __init__(self):
 
