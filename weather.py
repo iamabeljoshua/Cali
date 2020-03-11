@@ -34,9 +34,9 @@ class WeatherService(object):
         return temp
 
 
-    def _extract_desc(self, weahterdata):
+    def _extract_desc(self, weatherdata):
 
-        return weahterdata['weather'][0]['description']
+        return weatherdata['weather'][0]['description']
 
 
     
