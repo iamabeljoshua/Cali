@@ -90,8 +90,6 @@ def main():
             # To use your API Key use: `r.recognize_google(audio, key="GOOGLE_SPEECH_RECOGNITION_API_KEY")`
             # instead of `r.recognize_google(audio)`
 
-            # recognized_text = "What is the weather in Lagos"
-
             recognized_text  = recognizer.recognize_google(audio)
 
             print("You said: " + recognized_text)
