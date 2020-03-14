@@ -10,8 +10,6 @@ python -m pip install --upgrade ibm-watson
 
 python -m pip install SpeechRecognition
 
-python -m pip install pyttsx3
-
 
 #### You also need to have mpg321 command line MP3 player installed on your PC
 
