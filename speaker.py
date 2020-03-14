@@ -7,7 +7,7 @@ import random
 
 import os
 
-import pyttsx3 
+# import pyttsx3 
 
 
 class TTSSpeaker(object):
@@ -32,9 +32,8 @@ class TTSSpeaker(object):
 
         if(TTSSpeaker.voice == "offline"):
 
-            self.pyttsxengine.say(input_texts)
-            self.pyttsxengine.runAndWait()
-
+            pass
+        
         else:
 
             filename = "ibmvoice.mp3"
