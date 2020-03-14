@@ -17,7 +17,7 @@ class TTSSpeaker(object):
     def __init__(self):
 
         #initialize offline tts
-        self.pyttsxengine = pyttsx3.init()
+        # self.pyttsxengine = pyttsx3.init()
 
         self.authenticator = IAMAuthenticator('1-D9_Ydjmq8Hg72JkLFBZTNWtC9i6X6NEb6LffHi2LBH')
         self.text_to_speech = TextToSpeechV1(
