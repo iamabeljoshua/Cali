@@ -23,6 +23,18 @@ http://mpg321.sourceforge.net/ for Windows PC
 
 Run the script "main.py" from the directory containing it
 
+## Cali Commands
+
+Say:
+
+What is the weather in Abuja: to make Cali check and tell you the weather in Abuja
+
+Search for Python tutorial on youtube: to make Cali open a new youtube search page.
+
+Open up imabeljoshua on twitter: to make Cali open up twitter.com/iamabeljoshua on a new browser tab.
+
+What is the local time: to make Cali check and tell your current local time.
+
 ## Contributions 
 This is just a simple python program that demonstrates how different components can be combined to create a virtual assistant.
 A lot can be done with this project, such as:
