@@ -15,9 +15,10 @@ python -m pip install pyttsx3
 
 #### You also need to have mpg321 command line MP3 player installed on your PC
 
-https://brewinstall.org/Install-mpg321-on-Mac-with-Brew/ for Mac OSX 
+https://brewinstall.org/Install-mpg321-on-Mac-with-Brew/ for ##### Mac OSX 
 
-http://mpg321.sourceforge.net/ for Windows PC
+##### For Windows PC
+http://www.mpg123.de/download/win64/mpg123-1.23.8-x86-64.zip download for windows, then extract the folder and rename mpg123.exe to mpg321.exe and add the folder to your system path. Learn how to add folder to path here: https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/
 
 ## How to run
 
