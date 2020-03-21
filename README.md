@@ -15,7 +15,7 @@ python -m pip install SpeechRecognition
 
 https://brewinstall.org/Install-mpg321-on-Mac-with-Brew/ for Mac OSX 
 
-http://mpg321.sourceforge.net/ for Windows PC
+http://www.mpg123.de/download/win64/?V=1&O=D download for windows PC then extract the folder and rename mpg123.exe to mpg321.exe and add the folder to your system path. Learn how to add folder to path here: https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/
 
 ## How to run
 
